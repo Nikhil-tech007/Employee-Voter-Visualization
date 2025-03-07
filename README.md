@@ -1,7 +1,7 @@
 # Employee Voter Visualization
 
-Visualization dashboard on Data Surveying by Employee voters
-This project analyzes data from a professional data survey focusing on demographics, job roles, salary, programming language preferences, and work-life balance within the data science and related fields. The analysis is visualized using Power BI.
+- Visualization dashboard on Data Surveying by Employee voters
+- This project analyzes data from a professional data survey focusing on demographics, job roles, salary, programming language preferences, and work-life balance within the data science and related fields. The analysis is visualized using Power BI.
 
 ## Overview
 This repository contains:
