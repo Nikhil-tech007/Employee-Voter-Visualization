@@ -27,7 +27,7 @@ This repository contains:
 - Favorite Programming Languages: Python and R are the most popular programming languages among respondents.
 - Difficulty by Sex: The dashboard includes a breakdown of perceived difficulty by gender, showing the percentage of respondents finding their roles easy, difficult, or neither.
 
-## How to Use Clone the Repository: 
+## How to use the Repository: 
 - Clone this repository to your local machine.
 - Open Power BI File: Open the Data Surveying.pbix file using Power BI Desktop.
 - Explore the Dashboard: Interact with the dashboard to explore the data and gain insights. You can filter data by nationality, job title, and other variables.
